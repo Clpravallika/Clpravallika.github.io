@@ -1,4 +1,4 @@
-# clpravallika.github.io
+# Project-HYPOTHESIS
 Project Hypothesis: NASA Space Apps 2026 Challenge
 
 Code: 
