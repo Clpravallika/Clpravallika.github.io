@@ -1,4 +1,4 @@
-# Project-Hypothesis
+# clpravallika.github.io
 Project Hypothesis: NASA Space Apps 2026 entry
 
 Code: 
